@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "package": "net.bc100dev.pfc.sh",
+    "label": "Main ProcForge Commands",
+    "command_list": [
+        {
+            "command": "cgroups",
+            "description": "Linux Control Groups Management",
+            "class": ".cmd.CgManager",
+            "alternates": [
+            ]
+        }
+    ]
+}
